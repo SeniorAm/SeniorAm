@@ -20,7 +20,6 @@
 
 
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Samp-authentication-cheat)
-
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Taturial-pawno)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/BanSystem)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Safe-zone-MTA)
