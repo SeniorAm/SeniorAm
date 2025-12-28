@@ -1,13 +1,26 @@
 # Hi! Programmer Welcome to my page! ❤
 
-## 🔑 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical)
-![Visitors](https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff)
+---
+
+## 👤 About Me
+- 💻 Programmer & Backend Developer  
+- 🎮 Game Dev (MTA / SA-MP / Pawn)  
+- 🌐 Web & API Development  
+- 🚀 Open Source Enthusiast  
+
+---
+
+## 🔑 GitHub Overview
+
+![Followers](https://img.shields.io/github/followers/SeniorAm?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/SeniorAm?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-✔-brightgreen?style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/SeniorAm.svg?style=for-the-badge)
 
 ---
 
 ## 🧩 I use on a daily basis
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -19,23 +32,43 @@
 ---
 
 ## 📌 Featured Repositories
-[![shop-WebPage](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical)](https://github.com/SeniorAm/shop-WebPage)
-[![quick-translator](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical)](https://github.com/SeniorAm/quick-translator)
-[![Samp-authentication-cheat](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical)](https://github.com/SeniorAm/Samp-authentication-cheat)
-[![Taturial-pawno](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&theme=radical)](https://github.com/SeniorAm/Taturial-pawno)
-[![BanSystem](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&theme=radical)](https://github.com/SeniorAm/BanSystem)
-[![Safe-zone-MTA](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&theme=radical)](https://github.com/SeniorAm/Safe-zone-MTA)
+
+🔹 **shop-WebPage**  
+https://github.com/SeniorAm/shop-WebPage  
+
+🔹 **quick-translator**  
+https://github.com/SeniorAm/quick-translator  
+
+🔹 **Samp-authentication-cheat**  
+https://github.com/SeniorAm/Samp-authentication-cheat  
+
+🔹 **Taturial-pawno**  
+https://github.com/SeniorAm/Taturial-pawno  
+
+🔹 **BanSystem**  
+https://github.com/SeniorAm/BanSystem  
+
+🔹 **Safe-zone-MTA**  
+https://github.com/SeniorAm/Safe-zone-MTA  
 
 ---
 
-<p align="left">
-  <a href="https://github.com/SeniorAm?tab=repositories">
-    <img src="https://img.shields.io/badge/All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 📂 All Repositories
+👉 https://github.com/SeniorAm?tab=repositories
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&theme=radical" />
-</p>
+## 📈 Contribution Graph
+👉 https://github.com/SeniorAm
+
+---
+
+## 🔗 Connect With Me
+
+- Discord: https://discordapp.com/users/Senior_AmIr  
+- Telegram: https://telegram.me/BrunoDiktator  
+- TikTok: https://tiktok.com/BrunoDiktator  
+
+---
+
+⭐ If you like my work, consider following me!
