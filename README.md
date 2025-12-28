@@ -1,77 +1,85 @@
-# Hi there, I'm SeniorAm 👋
+<div align="center">
 
-**Programmer | Game Developer | Pawn Script Enthusiast** ❤️
+# 🌃 SeniorAmIr | GTA & SA-MP Developer 🚀
 
-Welcome to my GitHub profile! Here you'll find my projects mostly related to SA-MP (Pawn), MTA, web development and more.
+![Gaming 3D Banner](https://img.freepik.com/premium-vector/futuristic-abstract-black-purple-technology-background-gaming-esports-banner_180969-1201.jpg?semt=ais_hybrid&w=1380)
+
+**Pawn Scripter | Game Modder | Web & Cheat Developer** 💜
+
+> "Coding in the shadows of San Andreas" 🔥
+
+</div>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeniorAm&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="SeniorAm's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&hide_border=true" alt="SeniorAm's Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SeniorAm&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
+## 📊 My Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=EE00FF&icon_color=EE00FF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=react&hide_border=true&background=0D1117&stroke=EE00FF&ring=EE00FF&fire=FF6BFF&currStreakLabel=FFFFFF" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=EE00FF&text_color=FFFFFF&langs_count=10" />
+
 </div>
 
-## 🚀 Skills & Tools I Use
+## ⚡ Gaming Skills & Tools
 
 <div align="center">
 
-![Pawn](https://img.shields.io/badge/Pawn-Expert-ee00ff?style=for-the-badge&logo=pawn&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pawn](https://img.shields.io/badge/PAWN-Expert-EE00FF?style=for-the-badge&logo=color=white)
+![SA-MP](https://img.shields.io/badge/SA--MP-Pro-FF6BFF?style=for-the-badge&logo=gta)
+![MTA](https://img.shields.io/badge/MTA-Advanced-9D00FF?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript)
 
 <br/><br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Neon Gaming Setup](https://img.freepik.com/premium-photo/room-with-neon-purple-light-gaming-pc-desktops-text-39gaming-roomquot-background-wallpaper-ai-generated-image_1087980-6374.jpg?w=1380)
 
 </div>
 
-## 🔥 Featured Projects
+## 🔥 Featured Game Projects
 
 <div align="center">
 
-[![Shop WebPage](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical&hide_border=true)](https://github.com/SeniorAm/shop-WebPage)
-[![Quick Translator](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical&hide_border=true)](https://github.com/SeniorAm/quick-translator)
-[![SAMP Authentication Cheat](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical&hide_border=true)](https://github.com/SeniorAm/Samp-authentication-cheat)
-[![BanSystem](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&theme=radical&hide_border=true)](https://github.com/SeniorAm/BanSystem)
-[![Safe Zone MTA](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&theme=radical&hide_border=true)](https://github.com/SeniorAm/Safe-zone-MTA)
-[![Tutorial Pawno](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&theme=radical&hide_border=true)](https://github.com/SeniorAm/Taturial-pawno)
+[![Shop WebPage](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=react&hide_border=true&bg_color=0D1117&title_color=EE00FF&icon_color=FF6BFF)](https://github.com/SeniorAm/shop-WebPage)
+[![Quick Translator](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=react&hide_border=true&bg_color=0D1117&title_color=EE00FF&icon_color=FF6BFF)](https://github.com/SeniorAm/quick-translator)
+[![SAMP Auth Cheat](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=react&hide_border=true&bg_color=0D1117&title_color=EE00FF&icon_color=FF6BFF)](https://github.com/SeniorAm/Samp-authentication-cheat)
+[![BanSystem](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&theme=react&hide_border=true&bg_color=0D1117&title_color=EE00FF&icon_color=FF6BFF)](https://github.com/SeniorAm/BanSystem)
+[![Safe Zone MTA](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&theme=react&hide_border=true&bg_color=0D1117&title_color=EE00FF&icon_color=FF6BFF)](https://github.com/SeniorAm/Safe-zone-MTA)
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&theme=radical&hide_border=true&custom_title=SeniorAm's%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&theme=react&hide_border=true&bg_color=0D1117&color=EE00FF&line=EE00FF&point=FF6BFF" />
 </div>
 
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
-## 📬 Connect with me
+## 📡 Connect With Me
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Senior_AmIr-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Senior_AmIr)
-[![Telegram](https://img.shields.io/badge/Telegram-BrunoDiktator-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/BrunoDiktator)
-[![TikTok](https://img.shields.io/badge/TikTok-@BrunoDiktator-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@BrunoDiktator)
+[![Discord](https://img.shields.io/badge/Discord-Senior_AmIr-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/Senior_AmIr)
+[![Telegram](https://img.shields.io/badge/Telegram-BrunoDiktator-26A5E4?style=for-the-badge&logo=telegram)](https://telegram.me/BrunoDiktator)
+[![TikTok](https://img.shields.io/badge/TikTok-@BrunoDiktator-FF0050?style=for-the-badge&logo=tiktok)](https://tiktok.com/@BrunoDiktator)
 
 </div>
 
-Thanks for visiting! 🚀
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/trendy-retro-synth-line-perspective-wallpaper-with-smoke-effect_1017-43048.jpg?w=1380" alt="Neon Footer" />
+</div>
+
+**Ready Player One? Let's code some chaos! 🎮**
