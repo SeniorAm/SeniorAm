@@ -1,97 +1,91 @@
-<h1 align="center">
-Hi! Programmer Welcome to my page! ❤
-</h1>
+<div align="center">
+
+<img src="https://www.shutterstock.com/image-illustration/gaming-background-abstract-wallpaper-cyberpunk-260nw-2246481747.jpg" alt="Cyberpunk Neon Banner" />
+
+<br/><br/>
+
+<img src="https://thumbs.dreamstime.com/b/vibrant-stylized-illustration-hooded-figure-neon-skull-mask-perfect-gaming-avatars-esports-logos-any-project-379339072.jpg" width="180" style="border-radius:50%; border:6px solid #ee00ff; box-shadow: 0 0 50px #ee00ff;" />
+
+<br/><br/>
+
+# Hi! Programmer Welcome to my page! ❤
+
+**SeniorAm**  
+💻 Programmer & Backend Developer | 🎮 Game Dev (MTA / SA-MP / Pawn)  
+🌐 Web & API Development | 🚀 Open Source Enthusiast
 
 ---
+## 🔑 GitHub Overview
 
-## 🔑 GitHub Stats
+[![Followers](https://img.shields.io/github/followers/SeniorAm?style=for-the-badge&logo=github&color=ee00ff)](https://github.com/SeniorAm)
+[![Stars](https://img.shields.io/github/stars/SeniorAm?affiliations=OWNER&style=for-the-badge&logo=github&color=ee00ff)](https://github.com/SeniorAm)
+[![Repos](https://img.shields.io/github/repos/SeniorAm?style=for-the-badge&color=ee00ff)](https://github.com/SeniorAm)
+![Profile Views](https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff&style=for-the-badge&label=PROFILE%20VIEWS)
 
-<p align="center">
-  <a href="https://wakatime.com/@SeniorAm">
-    <img src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&show=reviews,prs_merged" />
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://wakatime.com/@018b3d86-6385-44e4-a635-abc685cc0e38">
-    <img src="https://wakatime.com/badge/user/018b3d86-6385-44e4-a635-abc685cc0e38.svg?style=flat" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff" />
-</p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ee00ff)](https://github.com/SeniorAm)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&hide_border=true&background=0D1117&stroke=ee00ff&ring=ee00ff&fire=ff6bff)](https://github.com/SeniorAm)
+
+<br/><br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff)](https://github.com/SeniorAm)
 
 ---
-
 ## 🧩 I use on a daily basis
 
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=ee00ff" />
-  <a href="https://discordapp.com/users/Senior_AmIr">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=discord&fill=ee00ff" />
-  </a>
-  <a href="https://tiktok.com/BrunoDiktator">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=tiktok&fill=ee00ff" />
-  </a>
-  <a href="https://telegram.me/BrunoDiktator">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=telegram&fill=ee00ff" />
-  </a>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=spotify&fill=ee00ff" />
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </p>
 
----
+<br/>
 
+<img src="https://img.freepik.com/premium-photo/computer-gaming-pc-gaming-table-dark-room-with-neon-purple-lights-gaming-chair-3d-illustr_926199-2454946.jpg" alt="Neon Gaming Room" />
+
+---
 ## 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/SeniorAm/shop-WebPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/SeniorAm/quick-translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-</p>
+<div>
 
-<p align="center">
-  <a href="https://github.com/SeniorAm/Samp-authentication-cheat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/SeniorAm/Taturial-pawno">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-</p>
+[![shop-WebPage](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ff6bff)](https://github.com/SeniorAm/shop-WebPage)
+[![quick-translator](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ff6bff)](https://github.com/SeniorAm/quick-translator)
+[![Samp-authentication-cheat](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ff6bff)](https://github.com/SeniorAm/Samp-authentication-cheat)
 
-<p align="center">
-  <a href="https://github.com/SeniorAm/BanSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/SeniorAm/Safe-zone-MTA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-</p>
+<br/>
+
+[![Taturial-pawno](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ff6bff)](https://github.com/SeniorAm/Taturial-pawno)
+[![BanSystem](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ff6bff)](https://github.com/SeniorAm/BanSystem)
+[![Safe-zone-MTA](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&theme=radical&hide_border=true&bg_color=0D1117&title_color=ee00ff&icon_color=ff6bff)](https://github.com/SeniorAm/Safe-zone-MTA)
+
+</div>
 
 ---
+## 📂 All Repositories
 
-<p align="center">
-  <a href="https://github.com/SeniorAm?tab=repositories">
-    <img src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+👉 [View All Repos](https://github.com/SeniorAm?tab=repositories)
 
 ---
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&border=7F3FBF&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorAm&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&theme=react-dark&hide_border=true&bg_color=0D1117&color=ee00ff&line=ee00ff&point=ff6bff" alt="Contribution Graph" />
 
 ---
+## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&custom_title=SeniorAm's%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" />
-</p>
+[![Discord](https://img.shields.io/badge/Discord-Senior_AmIr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Senior_AmIr)
+[![Telegram](https://img.shields.io/badge/Telegram-BrunoDiktator-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BrunoDiktator)
+[![TikTok](https://img.shields.io/badge/TikTok-@BrunoDiktator-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@BrunoDiktator)
+
+<br/><br/>
+
+<img src="https://wallpapers.com/images/hd/neon-purple-1920-x-1080-background-ea5oa0436eorzosi.jpg" alt="Cyberpunk Neon Footer" />
+
+<br/><br/>
+
+⭐ **If you like my work, consider following me!** 🚀🎮
+
+</div>
