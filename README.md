@@ -1,59 +1,55 @@
-<h1 align="center">SeniorAm</h1>
-<p align="center">
-  <b>Programmer • Backend • Game Dev</b>
-</p>
+# Hi! Programmer Welcome to my page! ❤
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff" />
-  <img src="https://wakatime.com/badge/user/018b3d86-6385-44e4-a635-abc685cc0e38.svg" />
-</p>
+## 🔑 GitHub Stats
+[![SeniorAm GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&show=reviews,prs_merged&hide_border=true)](https://wakatime.com/@SeniorAm)
+[![wakatime](https://wakatime.com/badge/user/018b3d86-6385-44e4-a635-abc685cc0e38.svg?style=flat-square)](https://wakatime.com/@018b3d86-6385-44e4-a635-abc685cc0e38)
+![SeniorAm Page Visitors](https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff&style=flat-square)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&hide_border=true&background=0D1117" />
-</p>
-
----
-
-### ⚡ Tech I Use
-<p align="center">
+## 🧩 I use on a daily basis
+<p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=discord&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=telegram&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=tiktok&fill=ee00ff" />
+  <a href="https://discordapp.com/users/Senior_AmIr">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=discord&fill=ee00ff" />
+  </a>
+  <a href="https://tiktok.com/BrunoDiktator">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=tiktok&fill=ee00ff" />
+  </a>
+  <a href="https://telegram.me/BrunoDiktator">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=telegram&fill=ee00ff" />
+  </a>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=spotify&fill=ee00ff" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/SeniorAm/shop-WebPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/SeniorAm/quick-translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SeniorAm/Samp-authentication-cheat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical&hide_border=true" />
-  </a>
-</p>
+## 📌 Featured Repositories
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/shop-WebPage)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/quick-translator)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Samp-authentication-cheat)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Taturial-pawno)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/BanSystem)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Safe-zone-MTA)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&bg_color=0D1117&color=ee00ff&line=ee00ff&point=ffffff&area=true&hide_border=true" />
+<p align="left">
+  <a href="https://github.com/SeniorAm?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SeniorAm?tab=repositories">
-    <img src="https://img.shields.io/badge/All%20Repositories-EE00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&border=7F3FBF&background=0D1117" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorAm&theme=radical" />
+</p>
+
+<img alt="SeniorAm Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F" />
+
+<br/>
+
+![SeniorAm's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&custom_title=SeniorAm&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
