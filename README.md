@@ -1,50 +1,77 @@
-# Hi! Programer Welcome to my page! ❤
+# Hi there, I'm SeniorAm 👋
 
+**Programmer | Game Developer | Pawn Script Enthusiast** ❤️
 
-## 🔑 GitHub Stats
+Welcome to my GitHub profile! Here you'll find my projects mostly related to SA-MP (Pawn), MTA, web development and more.
 
-[![Seniors GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&show=reviews,prs_merged)](https://wakatime.com/@SeniorAm)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeniorAm&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![wakatime](https://wakatime.com/badge/user/018b3d86-6385-44e4-a635-abc685cc0e38.svg?style=flat)](https://wakatime.com/@018b3d86-6385-44e4-a635-abc685cc0e38)
+## 📊 GitHub Stats
 
-![Seniors Page Visitors](https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="SeniorAm's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&hide_border=true" alt="SeniorAm's Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
 
-## I use on a daily basis
+## 🚀 Skills & Tools I Use
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&textfill=000000&fill=ee00ff)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=discord&textfill=000000&fill=ee00ff)](https://discordapp.com/users/Senior_AmIr)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tiktok&textfill=000000&fill=ee00ff)](https://tiktok.com/BrunoDiktator)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=telegram&textfill=000000&fill=ee00ff)](https://telegram.me/BrunoDiktator)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spotify&textfill=000000&fill=ee00ff)
+<div align="center">
 
+![Pawn](https://img.shields.io/badge/Pawn-Expert-ee00ff?style=for-the-badge&logo=pawn&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/shop-WebPage)
+<br/><br/>
 
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/quick-translator)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Samp-authentication-cheat)
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Taturial-pawno)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/BanSystem)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SeniorAm/Safe-zone-MTA)
+</div>
 
-<p align="left">
-  <a href="https://github.com/SeniorAm?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/SeniorAm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SeniorAm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorAm&theme=radical" alt="SeniorAm GitHub Contribution"/>
-  </a>
-</p>
-<a> 
+## 🔥 Featured Projects
 
-<img alt="SeniorAm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&line=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-  <br/>
-</a>
+<div align="center">
 
-![SeniorAm's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&custom_title=SeniorAm's&bg_color=0D1117&color=7F3FBF&line=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![Shop WebPage](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical&hide_border=true)](https://github.com/SeniorAm/shop-WebPage)
+[![Quick Translator](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical&hide_border=true)](https://github.com/SeniorAm/quick-translator)
+[![SAMP Authentication Cheat](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical&hide_border=true)](https://github.com/SeniorAm/Samp-authentication-cheat)
+[![BanSystem](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&theme=radical&hide_border=true)](https://github.com/SeniorAm/BanSystem)
+[![Safe Zone MTA](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Safe-zone-MTA&theme=radical&hide_border=true)](https://github.com/SeniorAm/Safe-zone-MTA)
+[![Tutorial Pawno](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&theme=radical&hide_border=true)](https://github.com/SeniorAm/Taturial-pawno)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&theme=radical&hide_border=true&custom_title=SeniorAm's%20Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+## 📬 Connect with me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Senior_AmIr-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/Senior_AmIr)
+[![Telegram](https://img.shields.io/badge/Telegram-BrunoDiktator-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/BrunoDiktator)
+[![TikTok](https://img.shields.io/badge/TikTok-@BrunoDiktator-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@BrunoDiktator)
+
+</div>
+
+Thanks for visiting! 🚀
