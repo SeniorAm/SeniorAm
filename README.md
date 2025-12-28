@@ -1,101 +1,58 @@
-<h1 align="center">
-Hi 👋, I'm SeniorAm
-</h1>
+<div align="center">
 
-<h3 align="center">
-Programmer • Backend • Game Dev • Open Source Lover
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=ee00ff&style=for-the-badge" />
-</p>
+# 💫 Hi! I'm SeniorAm | Programmer 
+  
+![Seniors Page Visitors](https://komarev.com/ghpvc/?username=SeniorAm&color=7F3FBF&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
-## 🧠 About Me
-- 💻 Backend & Game Developer  
-- 🎮 MTA / SA-MP / Pawn  
-- 🌐 Web & API Developer  
-- 🚀 Always learning & building  
+### 🚀 Connectivity & Socials
+<a href="https://telegram.me/BrunoDiktator" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://discordapp.com/users/Senior_AmIr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://tiktok.com/@BrunoDiktator" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://wakatime.com/@SeniorAm" target="_blank"><img src="https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&hide_border=true&title_color=7F3FBF&icon_color=7F3FBF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=compact&theme=radical&hide_border=true&title_color=7F3FBF" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeniorAm&theme=radical" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" />
+</div>
 
 ---
 
-## 🧩 Top Languages
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
-</p>
-
----
-
-## 🛠 Tech & Platforms I Use Daily
-
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=discord&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=telegram&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=tiktok&fill=ee00ff" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=spotify&fill=ee00ff" />
-</p>
+### 🛠 Tools & Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,spotify,linux,js,py&theme=dark" />
+</div>
 
 ---
 
-## 📌 Featured Projects
+### 🌟 Featured Projects
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SeniorAm/shop-WebPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/SeniorAm/quick-translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical&hide_border=true" />
-  </a>
-</p>
+| | |
+| --- | --- |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&theme=radical&hide_border=true)](https://github.com/SeniorAm/shop-WebPage) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=quick-translator&theme=radical&hide_border=true)](https://github.com/SeniorAm/quick-translator) |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical&hide_border=true)](https://github.com/SeniorAm/Samp-authentication-cheat) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&theme=radical&hide_border=true)](https://github.com/SeniorAm/BanSystem) |
 
-<p align="center">
-  <a href="https://github.com/SeniorAm/Samp-authentication-cheat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Samp-authentication-cheat&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/SeniorAm/Taturial-pawno">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&theme=radical&hide_border=true" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/SeniorAm?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeniorAm&bg_color=0D1117&color=7F3FBF&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://discordapp.com/users/Senior_AmIr">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://telegram.me/BrunoDiktator">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/BrunoDiktator">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
