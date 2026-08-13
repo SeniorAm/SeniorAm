@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/SeniorAm?label=Followers&style=for-the-badge&color=7F3FBF&logo=github" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=SeniorAm&color=7F3FBF&style=for-the-badge&label=VISITORS" alt="Profile visitors" />
-  <a href="https://github.com/SeniorAm/game-server-payment-gateways"><img src="https://img.shields.io/badge/Guide-ZarinPal%20Zibal%20IDPay-7F3FBF?style=for-the-badge" alt="Payment gateway guide" /></a>
 </p>
 
 ---
