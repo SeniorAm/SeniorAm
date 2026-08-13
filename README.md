@@ -43,21 +43,14 @@
 
 ---
 
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeniorAm&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies" />
-</p>
-
----
-
 ### Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeniorAm&show_icons=true&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&ring_color=22D3EE&hide_border=true" width="48%" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorAm&layout=compact&bg_color=04151C&title_color=22D3EE&text_color=ECFEFF&hide_border=true" width="48%" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=SeniorAm&show_icons=true&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&ring_color=22D3EE&hide_border=true" width="48%" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=SeniorAm&layout=compact&bg_color=04151C&title_color=22D3EE&text_color=ECFEFF&hide_border=true" width="48%" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorAm&background=04151C&ring=22D3EE&fire=14B8A6&currStreakNum=22D3EE&sideNums=22D3EE&sideLabels=99F6E4&currStreakLabel=22D3EE&stroke=155E75&dates=94A3B8&hide_border=true" width="97%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=SeniorAm&background=04151C&ring=22D3EE&fire=14B8A6&currStreakNum=22D3EE&sideNums=22D3EE&sideLabels=99F6E4&currStreakLabel=22D3EE&stroke=155E75&dates=94A3B8&hide_border=true" width="97%" alt="GitHub streak" />
 </p>
 
 ---
@@ -66,18 +59,18 @@
 
 <p align="center">
   <a href="https://github.com/SeniorAm/game-server-payment-gateways">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=game-server-payment-gateways&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="game-server-payment-gateways" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=SeniorAm&repo=game-server-payment-gateways&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="game-server-payment-gateways" />
   </a>
   <a href="https://github.com/SeniorAm/BanSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="BanSystem" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=SeniorAm&repo=BanSystem&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="BanSystem" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/SeniorAm/shop-WebPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="shop-WebPage" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=SeniorAm&repo=shop-WebPage&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="shop-WebPage" />
   </a>
   <a href="https://github.com/SeniorAm/Taturial-pawno">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="Taturial-pawno" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=SeniorAm&repo=Taturial-pawno&bg_color=04151C&title_color=22D3EE&icon_color=14B8A6&text_color=ECFEFF&border_color=155E75" width="400" height="120" alt="Taturial-pawno" />
   </a>
 </p>
 
